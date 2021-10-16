@@ -1,0 +1,19 @@
+{
+	"client": {
+		"adblock": true,
+		"devtools": false,
+		"fullscreen": false,
+		"uncap_fps": false
+	},
+	"game": {
+		"f4_seek": true,
+		"fast_load": false
+	},
+	"window": {
+		"meta": {
+			"icon": "Krunker.ico",
+			"replace": false,
+			"title": "Krunker"
+		}
+	}
+}
